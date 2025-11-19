@@ -9,6 +9,7 @@ body {
     height: 100vh;
 }
 
+
 .container {
     background-color: white;
     border-radius: 20px;
@@ -34,3 +35,15 @@ p {
     font-size: lrem;
     color: 18333;
 }
+
+footer {
+    background-color: white;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
